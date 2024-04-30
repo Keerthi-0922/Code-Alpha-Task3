@@ -1,1 +1,1 @@
-# Code-Alpha-Task3
+# Event Planning
